@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Favourite</string>
+
+    <string-array name="subjects">
+        <item>Php</item>
+        <item>C#</item>
+        <item>Android</item>
+        <item>Java</item>
+        <item>Network</item>
+        <item>Advanced Java</item>
+        <item>Phython</item>
+        <item>C++</item>
+        <item>Data Structure</item>
+        <item>Graphics</item>
+    </string-array>
+    <string name="title_activity_fav">fav</string>
+
+</resources>
